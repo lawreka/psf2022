@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import './App.css';
 
-const DOCUMENT = "/opencall.pdf";
+const DOCUMENT = "/ProjectSpaceFestival2022ProgramCalendar.pdf";
 
 const App = () => {
     const [height, setHeight] = useState(700);
